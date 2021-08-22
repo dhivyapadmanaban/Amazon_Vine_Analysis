@@ -17,4 +17,4 @@
 
 
 #### PAID REVIEW VERIFIED PURCHASES
-![image](https://user-images.githubusercontent.com/83181834/130373168-6443d711-f907-46c2-807f-7ce0ba979412.png)
+![image](https://user-images.githubusercontent.com/83181834/130373466-f8ef8e5c-3913-4088-a296-7fa8a9d3b36c.png)
