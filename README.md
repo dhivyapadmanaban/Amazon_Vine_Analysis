@@ -5,7 +5,7 @@
 This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin and calculate different metrics.
 
-We focused on the US reviews for Lawn and graden products.
+We focused on the US reviews for Lawn and garden products.
 
 ## Resources
 
@@ -34,17 +34,17 @@ Summarized results of paid vs unpaid amazon reviews on lawn and garden products 
 
 ## Summary 
 
-To summarize, both paid and unpaid reviws have similar statistics on total number of 5 star reviews and its percentage. However, total number of reviews for unpaid vs paid has huge difference which change the weightage of other supporting stats like 5 star review percentage. What these numbers seems to suggest is that there is **not strong bias toward** five-star reviews for Amazon vine reviewers. If anything, paid reviews might show a tendency towards being more critical in their reviews. 
+To summarize, both paid and unpaid reviews have similar statistics on total number of 5 star reviews and its percentage. However, total number of reviews for unpaid vs paid has huge difference which change the weight-age of other supporting stats like 5 star review percentage. What these numbers seems to suggest is that there is **not strong bias toward** five-star reviews for Amazon vine reviewers. If anything, paid reviews might show a tendency towards being more critical in their reviews. 
 
 ### Evidence to support analysis
 
-When "verified purchase" field is added to our analysis, we get enough evidence to suggest paid reviews didnt bais the products. Number of verified purchase of paid reviews is only "5" out of 387 reviews.
+When "verified purchase" field is added to our analysis, we get enough evidence to suggest paid reviews didn't bias the products. Number of verified purchase of paid reviews is only "5" out of 387 reviews.
 
 #### UNPAID REVIEW VERIFIED PURCHASES
 ![image](https://user-images.githubusercontent.com/83181834/130373151-28e3b6d6-6ab0-454a-9ed7-3d65e92b2e46.png)
 
 
-Number of verified purchase of unpaid reviews is 32,711 which is 65% of the total reviewes. 
+Number of verified purchase of unpaid reviews is 32,711 which is 65% of the total reviews. 
 
 #### PAID REVIEW VERIFIED PURCHASES
 ![image](https://user-images.githubusercontent.com/83181834/130373466-f8ef8e5c-3913-4088-a296-7fa8a9d3b36c.png)
