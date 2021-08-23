@@ -26,11 +26,11 @@ Summarized results of paid vs unpaid amazon reviews on lawn and garden products 
     
 - Total number of 5 star vine vs non-vine reviews
 
-    Total number of 5 star reviews for paid ones are 176 vs non paid ones are 24,026. Almost half of the reviews are 5 star reviews on both paid and unpaid reviews. 
+    Total number of 5 star reviews for paid ones are **176** vs non paid ones are **24,026**. Almost half of the reviews are 5 star reviews on both paid and unpaid reviews. 
     
 - Percentage of 5 star vine vs non-vine reviews
 
-  Percentage of 5 star paid reviews is 45.6% vs unpaid review is 49.32. Both paid and unpaid percentage are closer in the range. 
+  Percentage of 5 star paid reviews is **45.6%** vs unpaid review is **49.32**. Both paid and unpaid percentage are closer in the range. 
 
 ## Summary 
 
